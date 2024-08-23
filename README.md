@@ -68,6 +68,8 @@ Este é um sistema de agenda desenvolvido para gerenciar contatos e processos de
   - `tkinter`
   - `tkcalendar`
   - `openpyxl`
+  - `webbrowser`
+
 
 ## Contribuição
 
