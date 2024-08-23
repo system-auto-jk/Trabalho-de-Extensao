@@ -97,7 +97,3 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 ## Contato
 
 Desenvolvido por Erick e [System Auto JK - Soluções Tecnológicas](https://www.instagram.com/systemautojk/). Para dúvidas ou suporte, entre em contato através das nossas redes sociais.
-
----
-
-Se precisar de mais ajustes ou adicionar mais informações, é só falar!
