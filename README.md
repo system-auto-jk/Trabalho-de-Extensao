@@ -73,6 +73,8 @@ Este é um sistema de agenda desenvolvido para gerenciar contatos e processos de
 
 ## Contribuição
 
+O desenvolvimento deste programa contou com a valiosa contribuição dos usuários do escritório de advocacia, que forneceram feedback e sugestões para melhorar a funcionalidade e usabilidade da aplicação.
+
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
 
 ## Licença
