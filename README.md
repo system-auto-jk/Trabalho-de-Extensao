@@ -17,10 +17,13 @@ Este é um sistema de agenda desenvolvido para gerenciar contatos e processos de
 
 - **Cadastro de Clientes:** Permite adicionar novos clientes ao banco de dados.
 - **Gerenciamento de Processos:** Associa processos jurídicos aos clientes cadastrados.
-- **Busca de Clientes:** Pesquisa clientes por nome, código ou número do processo.
+- **Busca de Clientes:** Pesquisa clientes por nome, código, número, email, número do processo, local do processo, data, tipo do processo, status ou vara.
 - **Exportação para Excel:** Exporta os dados dos clientes para um arquivo Excel.
 - **Interface Gráfica:** UI intuitiva usando Tkinter com menus, botões, entradas e lista de exibição.
 - **Calendário:** Escolha de datas usando um calendário integrado.
+- **Limpeza da Tela:** Limpa os campos de entrada e outras informações exibidas.
+- **Alteração de Cadastro:** Permite atualizar as informações de um cliente existente.
+- **Exclusão de Cadastro:** Permite remover um cliente do banco de dados.
 
 ## Instalação
 
@@ -55,10 +58,21 @@ Este é um sistema de agenda desenvolvido para gerenciar contatos e processos de
    - Utilize a função de busca para encontrar clientes específicos.
    - A lista exibirá os resultados da pesquisa.
 
-3. **Exportação para Excel:**
+3. **Alteração de Cadastro:**
+   - Selecione um cliente na lista.
+   - Edite os campos necessários e clique no botão "Alterar" para atualizar as informações no banco de dados.
+
+4. **Exclusão de Cadastro:**
+   - Selecione um cliente na lista e clique no botão "Excluir".
+   - O cliente será removido do banco de dados.
+
+5. **Limpeza da Tela:**
+   - Clique no botão "Limpar" para apagar os dados dos campos de entrada e limpar a visualização de dados.
+
+6. **Exportação para Excel:**
    - Selecione um cliente na lista e escolha a opção de exportar para Excel.
 
-4. **Suporte:**
+7. **Suporte:**
    - Acesse o menu "Opções" e selecione "Suporte" para obter ajuda.
 
 ## Requisitos
@@ -69,7 +83,6 @@ Este é um sistema de agenda desenvolvido para gerenciar contatos e processos de
   - `tkcalendar`
   - `openpyxl`
   - `webbrowser`
-
 
 ## Contribuição
 
@@ -86,3 +99,5 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 Desenvolvido por Erick e [System Auto JK - Soluções Tecnológicas](https://www.instagram.com/systemautojk/). Para dúvidas ou suporte, entre em contato através das nossas redes sociais.
 
 ---
+
+Se precisar de mais ajustes ou adicionar mais informações, é só falar!
